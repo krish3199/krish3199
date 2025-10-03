@@ -29,10 +29,13 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 🎮 **Real Ludo Game** | Full working **Ludo game** with board, tokens & dice logic. | (https://beauty-products-99.netlify.app/) |
-| 🛒 **Shopping Cart (Ajio Style)** | Responsive cart with quantity controls + delete options. | [🔗 View Project](#) |
-| 🌐 **Hinge Marketing Website Clone** | Fully responsive modern landing page with slider. | [🔗 View Project](#) |
-| 🎬 **Ghibli-style Animation** | Peaceful animated mountain village scene. | [🔗 View Project](#) |
+| 🌸 **Radiance Beauty Store** | Modern beauty products web app showcasing skincare & cosmetics with responsive design. | [🔗 Live Demo](https://beauty-products-99.netlify.app/) |
+| 🛒 **Ajio Shopping Clone** | E-commerce cart system with add/remove items, quantity controls & responsive layout. | [🔗 Live Demo](https://ajio-shoping.netlify.app/) |
+| 🏋️ **Gym Landing Page** | Stylish landing page for fitness/gym services with clean UI & responsive design. | [🔗 Live Demo](https://krishhhhgym99999.netlify.app/) |
+| ✈️ **Airplane Landing Page** | Creative airline-themed landing page with modern UI & animations. | [🔗 Live Demo](https://krishhairplane999.netlify.app/) |
+| 🎮 **Real Ludo Game** | Full working Ludo game with board, tokens, dice logic & multiplayer support. | [🔗 View Project](#) |
+| 🌐 **Hinge Marketing Website Clone** | Fully responsive modern landing page with slider & animations. | [🔗 View Project](#) |
+| 🎬 **Ghibli-style Animation** | Peaceful animated mountain village scene with natural motion effects. | [🔗 View Project](#) |
 
 ---
 
