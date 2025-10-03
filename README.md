@@ -1,68 +1,69 @@
-# Hi there 👋, I'm Krish  
+<!-- Profile Header -->
+<h1 align="center">Hi there 👋, I'm Krish</h1>
+<h3 align="center">🚀 Full-Stack Developer | 🎨 Animation Developer | 🌍 Freelancer</h3>
 
-🚀 **Full-Stack Developer | Creative Animation Developer | Freelancer**  
-
-💡 I love building **modern, responsive, and animated web applications** that combine performance with eye-catching design.  
-✨ Always experimenting with **frontend magic + backend power** to craft seamless digital experiences.  
-
----
-
-## 🔥 What I Do  
-- 🎨 **Animation Development** – Smooth UI/UX animations, interactive effects, and stunning visuals.  
-- 🌐 **Full-Stack Development** – From **Frontend (React, Next.js, TailwindCSS)** to **Backend (Node.js, Express, MongoDB, SQL)**.  
-- 📱 **Cross-Platform Apps** – Flutter + WebApps for business solutions.  
-- ⚡ **Freelancing Projects** – Providing clients high-quality digital solutions with my team at **Evergreen & Nova**.  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Creative+Animation+Developer;Open+Source+Contributor;Freelancer+%7C+Founder+of+Evergreen+%26+Nova;Always+learning+new+things+%F0%9F%92%AB" alt="Typing Animation" />
+</p>
 
 ---
 
-## 🌱 Currently Learning  
-- 🧩 **Data Structures & Algorithms (DSA) in C++**  
-- 🔧 **Backend Optimization & Scalable APIs**  
-- 🎬 Advanced **Web Animations & Motion Design**  
+## 🌟 About Me
+- 🔭 I’m currently working on **Freelancing Projects (Evergreen & Nova)**  
+- 🌱 Currently learning **DSA in C++ & Backend Optimization**  
+- 🎯 Goal: To build **beautifully animated full-stack solutions**  
+- ⚡ Fun Fact: *I can spend hours perfecting small animations ✨*  
 
 ---
 
-## 👯 Open to Collaborate On  
-- 💻 Full-stack projects  
-- 🎥 Creative animation-based websites  
-- 📱 Mobile & Web applications  
+## 🚀 Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs,nodejs,express,mongodb,flutter,cpp,git,github" />
+</p>
 
 ---
 
-## 💬 Ask Me About  
-- 🚀 Frontend Frameworks (React, Next.js)  
-- 🛠 Backend (Node.js, Express, MongoDB)  
-- 🎨 Animations (GSAP, Framer Motion, CSS Magic)  
-- 🌍 Freelancing & Building Startup Teams  
+## 📂 Featured Projects  
+
+✨ Here are some of my best works (Click to View):  
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 🎮 **Real Ludo Game** | Full working **Ludo game** with board, tokens & dice logic. | [🔗 View Project](#) |
+| 🛒 **Shopping Cart (Ajio Style)** | Responsive cart with quantity controls + delete options. | [🔗 View Project](#) |
+| 🌐 **Hinge Marketing Website Clone** | Fully responsive modern landing page with slider. | [🔗 View Project](#) |
+| 🎬 **Ghibli-style Animation** | Peaceful animated mountain village scene. | [🔗 View Project](#) |
 
 ---
 
-## 📫 How to Reach Me  
-📧 Email: **yourmail@example.com**  
-💼 LinkedIn: [linkedin.com/in/krish3199](#)  
-🐦 Twitter: [twitter.com/krish3199](#)  
+## 📊 GitHub Stats & Activity  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krish3199&show_icons=true&theme=radical" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krish3199&theme=radical" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish3199&layout=compact&theme=radical" height="160px"/>
+</p>
 
 ---
 
-## ⚡ Fun Fact  
-I can spend **hours perfecting tiny animations** ✨ that users notice only for a second – but that’s what makes the experience magical! 🎬  
+## 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=krish3199&theme=radical&no-frame=true&margin-w=5&margin-h=5" />
+</p>
 
 ---
 
-## 🛠 Tech Stack  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+## 📫 Connect with Me  
+<p align="center">
+  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/krish3199"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/krish3199"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
 ---
 
-✨ _"Design is intelligence made visible, and animation is emotion made interactive."_ ✨  
-
+<p align="center">✨ _"Design is intelligence made visible, and animation is emotion made interactive."_ ✨</p>
