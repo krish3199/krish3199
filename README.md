@@ -29,7 +29,7 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 🎮 **Real Ludo Game** | Full working **Ludo game** with board, tokens & dice logic. | [[🔗 View Project](#)](https://beauty-products-99.netlify.app/) |
+| 🎮 **Real Ludo Game** | Full working **Ludo game** with board, tokens & dice logic. | (https://beauty-products-99.netlify.app/) |
 | 🛒 **Shopping Cart (Ajio Style)** | Responsive cart with quantity controls + delete options. | [🔗 View Project](#) |
 | 🌐 **Hinge Marketing Website Clone** | Fully responsive modern landing page with slider. | [🔗 View Project](#) |
 | 🎬 **Ghibli-style Animation** | Peaceful animated mountain village scene. | [🔗 View Project](#) |
